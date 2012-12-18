@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mjpg-streamer/!svn/ver/164/mjpg-streamer-experimental/plugins/output_http
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mjpg-streamer/!svn/ver/164/mjpg-streamer-experimental/plugins/output_http/httpd.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mjpg-streamer/!svn/ver/163/mjpg-streamer-experimental/plugins/output_http/Makefile
+END
+output_http.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mjpg-streamer/!svn/ver/155/mjpg-streamer-experimental/plugins/output_http/output_http.c
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mjpg-streamer/!svn/ver/164/mjpg-streamer-experimental/plugins/output_http/httpd.c
+END
