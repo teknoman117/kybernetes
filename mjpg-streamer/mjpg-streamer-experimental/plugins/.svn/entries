@@ -1,132 +1,0 @@
-10
-
-dir
-164
-https://mjpg-streamer.svn.sourceforge.net/svnroot/mjpg-streamer/mjpg-streamer-experimental/plugins
-https://mjpg-streamer.svn.sourceforge.net/svnroot/mjpg-streamer
-
-
-
-2012-07-01T12:22:55.188341Z
-164
-martonmiklos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a8dad676-403b-0410-b964-c43bdf40fe89
-
-input_testpicture
-dir
-
-input_uvc
-dir
-
-input_file
-dir
-
-input_http
-dir
-
-input_control
-dir
-
-output_file
-dir
-
-output_http
-dir
-
-output_viewer
-dir
-
-input_ptp2
-dir
-
-input.h
-file
-
-
-
-
-2012-09-03T21:33:35.437099Z
-ffececaef1c08e433396bbbcc89c62f6
-2010-11-10T00:09:09.750821Z
-128
-martonmiklos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3455
-
-output.h
-file
-
-
-
-
-2012-09-03T21:33:35.437099Z
-74305ae29be1b85778518009dbb03e81
-2010-11-10T00:09:09.750821Z
-128
-martonmiklos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2678
-
-output_autofocus
-dir
-
-output_rtsp
-dir
-
-output_udp
-dir
-

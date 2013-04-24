@@ -1,4 +1,4 @@
 Kybernetes
 ==========
 
-Repository containing all the source code for the Kybernetes navigational research platform build by the Robotics Society at UC Merced.  Note - it will unorganized at first, as we are collating our work and uploading to GitHub over our winter break.
+Contained in this repository is the software for Kybernetes, the Robotics Society at UC Merced's entry into Robomagellan 2012 and 2013.  However, Kybernetes is meant to be much more than just an entry into robomagellan.  It is a continuing research project by the Robotics Society into unmanned ground vehicles.  We are providing our software for whomever may want to use libraries and utilities we created.

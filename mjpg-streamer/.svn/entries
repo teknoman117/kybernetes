@@ -1,49 +1,0 @@
-10
-
-dir
-164
-https://mjpg-streamer.svn.sourceforge.net/svnroot/mjpg-streamer
-https://mjpg-streamer.svn.sourceforge.net/svnroot/mjpg-streamer
-
-
-
-2012-07-01T12:22:55.188341Z
-164
-martonmiklos
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-a8dad676-403b-0410-b964-c43bdf40fe89
-
-udp_client
-dir
-
-mjpg-streamer-experimental
-dir
-
-.deps
-dir
-
-mjpg-streamer
-dir
-
-uvc-streamer
-dir
-
-mjpeg-client
-dir
-
-doc
-dir
-
